@@ -1,6 +1,6 @@
-Hello Everyone, Welcome to BootCamp!
+Hello Everyone, Welcome to BootCamp! Have Fun.
 
-#### This is the repository that you will find the assignments per topics.
+### This is the repository that you will find the assignments per topics.
 
 - The assignments will be released after the lecture is completed.
 
