@@ -9,8 +9,8 @@
  * The another sum result is 130
  * The variable varB is false
  * The variable varC is true
- * The variable fnumber is -130.20
- * The variable dnumber is -20.50
+ * The variable fnumber is -130.2
+ * The variable dnumber is -20.5
  * The variable reminder is 1
  * The variable result is 3
  */
@@ -48,7 +48,8 @@ public class Exercise1 {
     System.out.println("The variable varB is " + varB);
     System.out.println("The variable varC is " + varC);
 
-    float fnumber = -130.20f; // By default, float numbers are treated as double in Java.
+    // Reading Example
+    float fnumber = -130.20f; // By default, numbers are treated as double in Java.
     // Use suffix 'f' with value to make it float.
     double dnumber = -20.50;
     System.out.println("The variable fnumber is " + fnumber);

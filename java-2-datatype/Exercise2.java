@@ -21,7 +21,7 @@ public class Exercise2 {
     // prints J
     // prints e
 
-    // Use indexOf(int ch), or indexOf(String ch)
+    // Use indexOf(int ch), or int indexOf(String ch)
     // prints 3
     // prints 9
     // prints 10
