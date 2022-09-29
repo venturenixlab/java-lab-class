@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Program toExercise3Ansumber of days that the month of a year has.
-public class Exercise20 {
+public class Exercise3 {
 
   public static void main(String[] strings) {
 

@@ -1,4 +1,4 @@
-public class Exercise4Ans {
+public class Exercise4 {
 /**
  * Exercise: Print first 10 natural numbers, but skip 6
  */

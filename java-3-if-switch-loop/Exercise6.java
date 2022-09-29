@@ -1,7 +1,15 @@
 import java.util.Scanner;
 
 /*
-Expected Output:
+Expected Output: (When input = 4)
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+Expected Output: (When input = 7)
       *
      ***
     *****
@@ -16,7 +24,7 @@ Expected Output:
      ***
       *
  */
-public class Exercise6An {
+public class Exercise6 {
 
   public static void main(String[] args) {
     int i, j, r;
