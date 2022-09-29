@@ -4,7 +4,7 @@ public class Exercise4 {
  */
 /**
  * Expected Output:
- * The first 10 natural numbers are: 
+ * The first 10 natural numbers are, except 6:
  * 1234578910
  */
   public static void main(String[] args) {
