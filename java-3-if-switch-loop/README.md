@@ -1,2 +1,2 @@
-Due Date: 4 Oct.
-Loops is not easy to understand.
+Due Date: 7 Oct.
+Nested Loops is not easy for beignner. Try your best to get through it.
