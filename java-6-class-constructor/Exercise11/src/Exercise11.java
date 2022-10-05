@@ -5,7 +5,7 @@
 // This is reading exercise, think about why the output is 0.0
 public class Exercise11 {
 
-    int x; // Create a instance attribute
+    double x; // Create a instance attribute
 
     // Set Method is NOT required
 
